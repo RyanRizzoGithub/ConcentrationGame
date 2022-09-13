@@ -94,4 +94,4 @@ GAME MODES
 		  
 PLAYER RESTRICTIONS
 	- All of the game modes can be played with 2- 6 players
-	- The game will prompt you to decide the player amount
+	- The game will prompt you to decide the player amount 
