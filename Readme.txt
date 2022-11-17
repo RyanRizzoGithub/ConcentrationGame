@@ -1,4 +1,4 @@
-Welcome to Concentration
+#Game of Concentration
 
 HOW TO USE
 	Step 1. Unzip the folder
