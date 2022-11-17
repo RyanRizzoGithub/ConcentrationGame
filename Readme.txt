@@ -1,4 +1,5 @@
 # Game of Concentration
+
 AUTHOR:
 - Ryan Rizzo
 
@@ -15,8 +16,7 @@ HOW TO USE:
 - Step 7. Player the game
 
 IMAGE SETS:
-	- Foods
-	(An image set containing pictures of different foods, these foods are as follows)
+	- Foods (An image set containing pictures of different foods, these foods are as follows)
 		- Banana
 		- Apple
 		- Pear
@@ -26,8 +26,7 @@ IMAGE SETS:
 		- Pineapple
 		- Avocado
 
-	- Animals
-	(An image set containing pictures of different animals, these animals are as follows)
+	- Animals (An image set containing pictures of different animals, these animals are as follows)
 		- Dog
 		- Cat
 		- Chicken
@@ -36,8 +35,8 @@ IMAGE SETS:
 		- Sheep
 		- Pig
 		- Cow
-	- Instructors
-	(An image set containing pictures of different Instructors, these Instructors are as follows)
+		
+	- Instructors (An image set containing pictures of different Instructors, these Instructors are as follows)
  		- Claveau
 		- Russ
 		- Efrat
@@ -47,8 +46,8 @@ IMAGE SETS:
 		- Dicken
 		- Lotz
 		- Proebsting
-	- Fish
-	An image set containing pictures of different fish from my tank, these fish are as follows)
+		
+	- Fish (An image set containing pictures of different fish from my tank, these fish are as follows)
 		- Angel
 		- Gourami
 		- Loach
@@ -57,6 +56,7 @@ IMAGE SETS:
 		- Platy
 		- Rasboras
 		- Cory Catfish
+		
 	- King of The Hill (An image set containing pictures of different King of the Hill characters, these characters are as follows)
  		- Hank
 		- Peggy
@@ -66,8 +66,7 @@ IMAGE SETS:
 		- Bill
 		- Boomhauer
 		- Kahn
-	- Regular Show
-	(An image set containing pictures of different characters from Regular Show, these characters are as follows)
+	- Regular Show (An image set containing pictures of different characters from Regular Show, these characters are as follows)
  		- Death
 		- Jablonski
 		- Techmo
@@ -76,6 +75,7 @@ IMAGE SETS:
 		- Richard Dick
 		- Garrette
 		- Gary
+		
 GAME MODES:
 	- Default
 		- This is the normal version of the game Concentration
