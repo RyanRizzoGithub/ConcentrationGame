@@ -17,14 +17,14 @@ HOW TO USE:
 
 IMAGE SETS:
 - Foods (An image set containing pictures of different foods, these foods are as follows)
-- Banana
-- Apple
-- Pear
-- Greenapple
-- Kiwi
-- Peach
-- Pineapple
-- Avocado
+	- Banana
+	- Apple
+	- Pear
+	- Greenapple
+	- Kiwi
+	- Peach
+	- Pineapple
+	- Avocado
 
 - Animals (An image set containing pictures of different animals, these animals are as follows)
 - Dog
