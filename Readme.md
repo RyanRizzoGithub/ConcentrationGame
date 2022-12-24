@@ -1,5 +1,7 @@
 # Game of Concentration
 
+<img width="519" alt="Screen Shot 2022-12-24 at 4 13 41 PM" src="https://user-images.githubusercontent.com/89487878/209451145-78161d14-c65f-4961-8e50-b6c266fa3fc1.png">
+
 AUTHOR:
 - Ryan Rizzo
 
